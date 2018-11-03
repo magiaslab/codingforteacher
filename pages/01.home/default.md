@@ -1,8 +1,7 @@
 ---
 title: Home
 media_order: 'coding for teacher.png'
-date: '03-11-2018 10:25'
-publish_date: '03-11-2018 10:25'
+published: true
 body_classes: 'title-center title-h1h2'
 ---
 
