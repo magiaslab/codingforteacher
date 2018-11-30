@@ -1,6 +1,7 @@
 ---
 title: 'Coding Card in Italiano'
 media_order: 'Let_s Dance - Balliamo - IT.pdf,Catch Game - Gioca a Raccogliere - IT.pdf,Name - Anima un Nome - IT.pdf,Fashion Game - Gioco della Moda - IT.pdf,Make Music - Crea della Musica - IT.pdf,Race Game - Corsa verso il Traguardo - IT.pdf,Hide and Seek - Gioca a Nascondino - IT.pdf,Pong Game - Crea il Gioco Pong - IT.pdf,Make It Fly - Fallo Volare - IT.pdf,Story - Crea una Storia - IT.pdf,Virtual Pet - Animaletto Virtuale - IT.pdf'
+date: '30-11-2018 09:58'
 ---
 
 1. [Let_s Dance - Balliamo - IT.pdf](Let_s%20Dance%20-%20Balliamo%20-%20IT.pdf)
