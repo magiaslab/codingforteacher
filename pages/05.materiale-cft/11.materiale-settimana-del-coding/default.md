@@ -16,3 +16,5 @@ Alcuni esempi e materiali da utlizzare pre la preparazione della settimana del c
 
 [Kit KodyRoby](http://codemooc.org/codyroby/en/)
 
+[CORSO GOOGLE CS FIRST](https://csfirst.withgoogle.com/s/it/home)
+
